@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: "Darren Liu"
-  desc: Welcome to my page!
+  desc: Welcome! I hope you enjoy getting to know me and my work.
   email: darren.liu.plath@gmail.com
   selfie: assets/img/profile.jpg
 
