@@ -10,9 +10,9 @@ As a first-generation US graduate, I am fluent in Mandarin Chinese and hold a de
 <br/>
 
 # Career
-
-
-<br/>
+Senior Technical Writer (full-time, remote) Nov. 2022 – Dec. 2023 Marigold (Formerly Cheetah Digital) | Nashville, TN
+Technical Writer (full-time, remote) Oct. 2021 – Nov. 2022 Built Technologies, Inc. | Nashville, TN
+Technical Writer/ Procedure Coordinator (full-time)	Feb. 2021 – Sep. 2021 NorthWind Group, Department of Energy (DOE) | Lenoir City, TN
 
 # Interests
 I love technical and content writing. 
