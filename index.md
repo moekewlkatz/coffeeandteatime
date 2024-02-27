@@ -3,24 +3,20 @@ layout: about
 ---
 
 # About Me
- is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+As a technical writer, project coordinator, and documentation manager, I bring over 4 years of experience in the software as a service (SaaS) and the Department of Energy's (DOE) industries. My expertise lies in documentation and project management, spanning various areas, including software engineering, product technology, government facilities, construction contractors, financial lenders, and product marketing clients.
+
+As a first-generation US graduate, I am fluent in Mandarin Chinese and hold a degree in English with a focus on technical communications and engineering. My passion lies in training and managing writers to create an effective knowledge base, ultimately enhancing product and sales satisfaction. 
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+I love technical and content writing. 
+I am a big believer in making things easy to understand for everyone. 
+Along with my love for English, I am equally passionate about chemical engineering. 
+You can find me longboarding, doing mixed martial arts, or going on long walks on the beach when I get the chance. 
+In my free time, I am a big coffee and tea connoisseur. I enjoy reading and writing; my favorite genres are horror and thrillers!
