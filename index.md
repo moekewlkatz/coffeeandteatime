@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-With over 4 years of experience in technical writing, project coordination, and documentation management, I specialize in the software as a service (SaaS) and Department of Energy (DOE) industries. My expertise spans documentation and project management across diverse sectors, including software engineering, product technology, government facilities, construction contractors, financial lenders, and product marketing clients.
+With over 5 years of experience in technical writing, project coordination, and documentation management, I specialize in the software as a service (SaaS) and Department of Energy (DOE) industries. My expertise spans documentation and project management across diverse sectors, including software engineering, product technology, government facilities, construction contractors, financial lenders, and product marketing clients.
 
 I am a certified SAFe Agile 6 practitioner and a first-generation US graduate fluent in Mandarin Chinese. I hold a degree in English with a focus on technical communications and engineering. My passion lies in training and managing writers to build effective knowledge bases, ultimately enhancing product and sales satisfaction.
 
