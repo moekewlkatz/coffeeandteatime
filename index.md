@@ -3,16 +3,16 @@ layout: about
 ---
 
 # About Me
-With over 5 years of experience in technical writing, project coordination, and documentation management, I specialize in the software as a service (SaaS) and Department of Energy (DOE) industries. My expertise spans documentation and project management across diverse sectors, including software engineering, product technology, government facilities, construction contractors, financial lenders, and product marketing clients.
+With over 5 years of experience scaling documentation systems, product telemetry, and AI-driven content workflows, I specialize in the SaaS, enterprise tech, and Department of Energy (DOE) sectors. Currently, I serve as the sole documentation architect across a 7-product enterprise SaaS suite, managing end-to-end CMS migrations, Pendo product analytics, and automated AI content pipelines (Copilot, Claude, Gemini).
 
-I am a certified SAFe Agile 6 practitioner and a first-generation US graduate fluent in Mandarin Chinese. I hold a degree in English with a focus on technical communications and engineering. My passion lies in training and managing writers to build effective knowledge bases, ultimately enhancing product and sales satisfaction.
+A first-generation US college graduate fluent in Mandarin Chinese, I hold a degree in English with a focus on technical writing and chemistry. My passion lies in architecting robust knowledge bases, bridging the gap between engineering and GTM teams, and turning complex product ecosystems into streamlined user experiences that drive adoption and reduce support friction.
 
 <br/>
 
 # Career
-<li>Technical Writer (full-time, remote) Oct. 2024 – Present | Iodine Software | Nashville, TN</li>
-<li>Technical Writer (full-time, remote) Mar. 2024 – Oct. 2024 | VetsEZ | Nashville, TN</li>
-<li>Senior Technical Writer (full-time, remote) Nov. 2022 – Dec. 2023 | Marigold (Formerly Cheetah Digital) | Nashville, TN</li>
+<li>Technical Writer (full-time, remote) Oct. 2024 – Present | Waystar (Formerly Iodine Software) | Remote</li>
+<li>Technical Writer (full-time, remote) Mar. 2024 – Oct. 2024 | VetsEZ | Remote</li>
+<li>Senior Technical Writer (full-time, remote) Nov. 2022 – Dec. 2023 | Marigold (Formerly Cheetah Digital) | Remote</li>
 <li>Technical Writer (full-time, remote) Oct. 2021 – Nov. 2022 | Built Technologies, Inc. | Nashville, TN</li>
 <li>Technical Writer/ Procedure Coordinator (full-time)	Feb. 2021 – Sep. 2021 | NorthWind Group/Edgewater Technical Associates, Department of 
     Energy (DOE) | Lenoir City, TN</li>
